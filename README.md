@@ -32,4 +32,7 @@ The application is styled with a responsive design, ensuring a pleasant user exp
 
 ## API Integration
 The application fetches weather data from the OpenWeatherMap API using a provided API key. Ensure that the API key (apiKey variable in index.js) is valid for accurate data retrieval.
+## SCREENSHOT:
+
+![IMG](https://github.com/Ruksana-begum/weather-app/assets/127771632/81f0cd9b-3892-496c-b1c9-c2fbcc290778)
 
